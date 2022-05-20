@@ -1,0 +1,33 @@
+body {
+  padding: 5vh 20vw;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+i {
+  font-weight: normal;
+}
+
+.subscribe {
+  text-decoration: underline;
+  color: grey;
+  font-size: 0.75rem;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  
+}
