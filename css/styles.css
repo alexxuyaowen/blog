@@ -16,6 +16,10 @@ h3 {
   margin: 1vh 0;
 }
 
+a {
+  color: #6eadfa;
+}
+
 i {
   cursor: pointer;
 }
@@ -109,7 +113,6 @@ footer {
 }
 
 .continue {
-  color: #6eadfa;
   position: absolute;
   bottom: 1vh;
 }
@@ -215,7 +218,6 @@ footer {
 
 .archives a, .elsewhere a {
   line-height: 2.5vh;
-  color: #6eadfa;
   font-family: sans-serif;
   font-size: 0.8rem;
 }
